@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplicationYTC</string>
+    <string name="tabCourse">Course</string>
+    <string name="tabJob">Job</string>
+    <string name="profil">Profil</string>
+    <string name="btnEditProfil">Edit Profil</string>
+    <string name="profilNama">Nama Pengguna</string>
+</resources>
